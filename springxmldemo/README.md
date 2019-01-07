@@ -1,0 +1,1 @@
+# Spring MVC xml based configuration demo
